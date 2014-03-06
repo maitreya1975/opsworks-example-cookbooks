@@ -1,0 +1,1 @@
+default[:userapp][:dbtable] = 'users'
